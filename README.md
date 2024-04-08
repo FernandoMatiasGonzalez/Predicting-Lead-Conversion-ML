@@ -26,4 +26,4 @@ Based on our insights, we recommend the following strategies:
 - **Continuous Improvement:** Embrace a culture of constant evolution, monitoring model performance and refining strategies to stay ahead of the curve.
 
 ## Elevate Your Lead Conversion Strategy
-Join us on this journey as we unlock the true potential of lead conversion in the dynamic landscape of EdTech. Together, let's propel TechLever+ towards unparalleled success in the digital realm.
+Join us on this journey as we unlock the true potential of lead conversion in the dynamic landscape of EdTech. Together, let's propel TechLever+ in the digital realm.
