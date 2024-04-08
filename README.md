@@ -8,7 +8,7 @@ Developed a ML model to identify leads likely to convert to paid customers based
 ## Insights
 Our analysis reveals the following key findings:
 
-- **Optimized Model:** Leveraging an optimized Random Forest model, we achieved an impressive 89% recall for identifying leads likely to convert to paid customers.
+- **Optimized Model:** Leveraging an optimized Random Forest model, we achieved an outstanding 89% recall for identifying leads likely to convert to paid customers.
 
 - **Key Predictors:** Dive deep into the factors that drive lead conversion. Discover how metrics such as time spent on the website, initial interaction source, and profile completion level play pivotal roles in shaping conversion outcomes.
 
