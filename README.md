@@ -17,4 +17,4 @@ Developed a ML model to identify leads likely to convert to paid customers based
 
 - **Targeted Engagement Strategies:** Craft personalized marketing campaigns tailored to diverse demographics, amplifying conversion rates across all segments.
 
-For further details on the model development, findings, and advanced recommendations, consult the HTLM Python notebook.
+For further details on the model development, findings, and advanced recommendations, consult the Python notebook.
