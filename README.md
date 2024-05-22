@@ -1,4 +1,4 @@
- # TechLever+ Lead Conversion Prediction
+ # TechLever+ Project: Predicting Lead Conversion
 
 In this repository, we delve into the world of EdTech to unlock powerful insights into lead conversion using Machine Learning techniques.
 
