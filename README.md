@@ -25,4 +25,4 @@ The analysis provides tailored analysis and advanced recommendations to enhance 
 ## View Projects
 For detailed analysis and insights, please refer to the included Python notebook.
 
-Note: This repository serves as a demonstration of machine learning techniques for loan default prediction. Actual implementation may require customization.
+Note: This repository serves as a demonstration of machine learning techniques for lead conversion prediction. Actual implementation may require customization.
