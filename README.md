@@ -1,4 +1,4 @@
- # Lead-Conversion-Prediction-ML
+ # TechLever+ Lead Conversion Analysis Using ML
 
 In this repository, we delve into the world of EdTech to unlock powerful insights into lead conversion using Machine Learning techniques.
 
