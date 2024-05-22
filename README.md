@@ -1,9 +1,9 @@
  # Lead-Conversion-Prediction-ML
 
-In this repository, we delve into the world of EdTech to unlock powerful insights into lead conversion using machine learning techniques.
+In this repository, we delve into the world of EdTech to unlock powerful insights into lead conversion using Machine Learning techniques.
 
 ## Objective
-To develop a machine learning model to identify leads likely to convert to paid customers based on lead attributes and interactions.
+To develop a Machine Learning model to identify leads likely to convert to paid customers based on lead attributes and interactions.
 
 ## Key Questions
 - What are the primary factors that drive lead conversion?
