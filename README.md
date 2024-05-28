@@ -19,8 +19,9 @@ To develop a Machine Learning model to identify leads likely to convert to paid 
 The analysis provides tailored analysis and advanced recommendations to enhance business strategy.
 
 ## Implementation Challenges
-- Integration with existing systems
-- Ensuring compliance with data privacy regulations
+- Integration with existing systems.
+- Ensuring compliance with data privacy regulations.
+- Prevent any potential bias in the data.
   
 ## View Projects
 For detailed analysis and insights, please refer to the included Python notebook.
